@@ -1,6 +1,6 @@
 Name:		texlive-exesheet
-Version:	61061
-Release:	2
+Version:	68692
+Release:	1
 Summary:	Typesetting exercise or exam sheets
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/exesheet
