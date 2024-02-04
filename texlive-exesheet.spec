@@ -1,5 +1,5 @@
 Name:		texlive-exesheet
-Version:	69252
+Version:	69688
 Release:	1
 Summary:	Typesetting exercise or exam sheets
 Group:		Publishing
